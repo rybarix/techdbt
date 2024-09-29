@@ -1,0 +1,26 @@
+{
+  "name": "techdbt",
+  "version": "1.0.0",
+  "description": "techdbt is a simple tool to scan your codebase for TODO, FIXME, and REFACTOR comments.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "dbt": "./cli.js"
+  },
+  "keywords": [
+    "search",
+    "scan",
+    "find",
+    "fixme",
+    "refactor",
+    "todo",
+    "techdebt"
+  ],
+  "author": "rybarix",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rybarix/techdbt.git"
+  },
+  "homepage": "https://github.com/rybarix/techdbt#readme"
+}
